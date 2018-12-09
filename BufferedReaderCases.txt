@@ -1,0 +1,29 @@
+what is a mini-article?
+
+A mini-article has a couple of characteristics: 
+- it’s short
+- it’s simple
+- it generally only has sections (no subsections)
+
+- when working with your editor, it should be much easier to get these kinds of simple articles right from the start, or at the most with a bit of help, but certainly not a lot of feedback will be needed
+
+
+- here are a few examples of live mini-articles (not on baeldung.com): 
+https://www.mkyong.com/java/how-to-convert-hex-to-ascii-in-java/
+https://www.mkyong.com/java/java-convert-string-to-int/
+https://www.mkyong.com/java/java-how-to-split-a-string/
+
+- and here’s the JIRA filter for these: 
+http://jira.baeldung.com/issues/?jql=issuetype%20%3D%20Mini-article
+
+
+
+converting articles into mini-articles and mini-articles into articles
+
+Keep in mind that any article that’s close to 500 words should be converted into a mini-article. 
+Also, any mini-article that gets close to 750 words should be converted into a full article. 
+
+
+
+what’s the budget of a mini-article?
+- have a look at the budgets doc
