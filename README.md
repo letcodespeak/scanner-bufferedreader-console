@@ -22,3 +22,10 @@ https://medium.com/@isaacjumba/why-use-bufferedreader-and-bufferedwriter-classse
 https://www.baeldung.com/java-buffered-reader
 
 https://www.baeldung.com/java-scanner
+
+https://stackoverflow.com/questions/17637032/bufferedreader-vs-console-vs-scanner
+
+https://stackoverflow.com/questions/2231369/scanner-vs-bufferedreader?rq=1
+
+
+https://iamcodelover.wordpress.com/2012/08/27/reading-from-console-java-scanner-vs-bufferedreader/
